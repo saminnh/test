@@ -1,2 +1,4 @@
 Name Dessert
 Sam, Ice Cream
+Cristy, Cake
+Lauren, Ice Cream
